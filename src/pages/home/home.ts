@@ -17,7 +17,7 @@ export class HomePage {
   }
 
   ff1(){
-    alert("UP11");
+    alert("UP11444");
   }
   
    ff2(){
