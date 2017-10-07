@@ -17,7 +17,7 @@ export class HomePage {
   }
 
   ff1(){
-
+    alert("Down");
   }
   
    ff2(){
