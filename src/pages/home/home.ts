@@ -17,11 +17,11 @@ export class HomePage {
   }
 
   ff1(){
-    alert("UP");
+    alert("UP890");
   }
   
    ff2(){
-    alert("Downd1wewe111");
+  alert("Downd1wewe111");
   }
 
 }
