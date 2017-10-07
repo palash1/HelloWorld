@@ -21,7 +21,7 @@ export class HomePage {
   }
   
    ff2(){
-    alert("Downd1wewe555");
+  alert("Downd1wewe111");
   }
 
 }
