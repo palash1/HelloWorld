@@ -17,7 +17,7 @@ export class HomePage {
   }
 
   ff1(){
-    alert("Update");
+    alert("Update 5678");
   }
   
    ff2(){
