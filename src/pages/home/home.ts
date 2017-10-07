@@ -17,11 +17,7 @@ export class HomePage {
   }
 
   ff1(){
-<<<<<<< HEAD
-    alert("Down");
-=======
-      alert("UP");
->>>>>>> f7e686bb41fd526731ae1ddcc8f3d83902a0f139
+    
   }
   
    ff2(){
