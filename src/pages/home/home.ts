@@ -11,5 +11,9 @@ export class HomePage {
   constructor(public navCtrl: NavController) {
 
   }
+  
+  ff(){
+  alert("KLLLLL");
+  }
 
 }
