@@ -13,7 +13,11 @@ export class HomePage {
   }
   
   ff(){
-  alert("KLLLLL");
+    alert("KLLLLL");
+  }
+
+  ff1(){
+
   }
 
 }
