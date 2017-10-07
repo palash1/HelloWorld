@@ -19,5 +19,9 @@ export class HomePage {
   ff1(){
 
   }
+  
+   ff2(){
+
+  }
 
 }
