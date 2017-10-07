@@ -15,5 +15,9 @@ export class HomePage {
   ff(){
   alert("KLLLLL");
   }
+  
+   ff2(){
+
+  }
 
 }
