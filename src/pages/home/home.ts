@@ -7,7 +7,7 @@ import { NavController } from 'ionic-angular';
 })
 export class HomePage {
 
-  public color:string="blue11";
+  public color:string="blue";
   constructor(public navCtrl: NavController) {
 
   }
